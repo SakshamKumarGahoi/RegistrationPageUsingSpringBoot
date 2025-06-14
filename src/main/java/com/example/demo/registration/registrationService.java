@@ -5,6 +5,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class registrationService {
     public String register(RegistrationRequest request) {
-        return "works";
+        return "it works";
     }
 }
